@@ -1,0 +1,6 @@
+flask==1.0.2
+requests==2.19.1
+flask_api==1.1
+werkzeug==1.0.0
+marshmallow
+redis
