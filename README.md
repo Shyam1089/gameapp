@@ -66,6 +66,11 @@ Endpoint | Method | Data Parameter | Description
           “computer”:  3
         }
 
+### Error Response
+Exception | HTTP status code | Description
+----------| --------------- | ---------
+BadRequest | 400 | When the post body of request is not a valid Json or not in accordance with input requirement 
+
 
 ### 4. Scoreboard
 Endpoint | Method | Description
