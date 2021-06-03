@@ -54,7 +54,7 @@ Endpoint | Method | Description
 ### 3. Play
 Endpoint | Method | Data Parameter | Description
 ----------| ---- | ----------- |---------------
-/choice | POST | { “player”: choice_id } |Enter your choice ID to play a round against a computer opponent
+/play | POST | { “player”: choice_id } |Enter your choice ID to play a round against a computer opponent
 
 ### Success Response
 +  HTTP Status Code: 200 
